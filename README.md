@@ -5,7 +5,7 @@
 - 우아한 형제들 기술이사 김영한의 스프링 완전 정복 로드맵 中 **스프링 핵심 원리 - 기본편** 공부하기
    <br>
   
-  > [스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
+  > [스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
 
 ## 운영 방식
 일주일 동안 정해둔 양을 공부하고 매주 N명씩 돌아가면서 발표하기
